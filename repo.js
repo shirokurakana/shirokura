@@ -2,7 +2,7 @@
     "contact": "admin@thdog.moe",
     "id": "shirokura",
     "patches": {
-        "th18_card_chs": "Human readable ability card Chinese translate by THBWiki"
+        "th18_card_effect_chs": "Replace the original with direct instructions(zh-chs)"
     },
     "servers": [
         "https://mirrors.thpatch.net/shirokura/"
