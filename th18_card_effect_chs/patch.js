@@ -4,7 +4,7 @@
     ],
     "id": "th18_card_effect_chs",
     "servers": [
-        "https://raw.githubusercontent.com/shirokurakana/th18_card_effect_chs/master/"
+        "https://mirrors.thpatch.net/shirokurakana/th18_card_effect_chs/"
     ],
     "title": "Replace the original with direct instructions(zh-chs)"
 }
