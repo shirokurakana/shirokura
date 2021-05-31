@@ -6,5 +6,5 @@
     "servers": [
         "https://mirrors.thpatch.net/shirokurakana/bgm_dbu/"
     ],
-    "title": "Replace original themes with dBu music's arrange"
+    "title": "[th15-th16]Replace original themes with dBu music's arrange"
 }
